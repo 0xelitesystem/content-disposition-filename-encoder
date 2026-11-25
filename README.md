@@ -127,7 +127,7 @@ This is an independent tool. It is not affiliated with or endorsed by the IETF, 
 
 - https://github.com/0xelitesystem/filename-and-path-limits-reference
 - https://github.com/0xelitesystem/mime-type-lookup
-- https://github.com/0xelitesystem/http-header-analyzer
+- https://github.com/0xelitesystem/http-header-explainer
 
 ## License
 
